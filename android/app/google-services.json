@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788861249127",
+    "project_id": "kenner-632d0",
+    "storage_bucket": "kenner-632d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788861249127:android:20bd4715cd5f3f066856c2",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFTP5AADQ60ukeK_oXCv20UMDwkMjH5Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
